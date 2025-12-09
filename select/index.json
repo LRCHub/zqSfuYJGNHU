@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マジェスティック・サディスティック",
+  "base_artist": "Eye",
+  "createdAt": "2025-12-09T19:47:20.769849Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マジェスティック・サディスティック",
+      "artist": "Eye",
+      "has_synced": false,
+      "path": "select/pl_01_マジェスティック・サディスティック_Eye.txt"
+    }
+  ]
+}
